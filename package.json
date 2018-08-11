@@ -1,0 +1,16 @@
+{
+  "name": "preact-serve",
+  "version": "0.0.0",
+  "description": "placeholder",
+  "repository": "https://github.com/MaxMilton/preact-serve",
+  "bugs": "https://github.com/MaxMilton/preact-serve/issues",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "preact-cli": ">= 2.2.1"
+  },
+  "dependencies": {}
+}
