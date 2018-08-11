@@ -6,11 +6,17 @@
   "bugs": "https://github.com/MaxMilton/preact-serve/issues",
   "author": "Max Milton <max@wearegenki.com>",
   "license": "MIT",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
     "preact-cli": ">= 2.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "compression": "^1.7.3",
+    "polka": "^0.4.0",
+    "sade": "^1.4.1",
+    "sirv": "^0.1.5"
+  }
 }
