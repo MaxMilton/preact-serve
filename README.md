@@ -1,3 +1,3 @@
 # `preact-serve`
 
-Coming soon...
+*DEPRECATED: Use `sirv-cli` instead: https://github.com/lukeed/sirv/tree/master/packages/sirv-cli*
